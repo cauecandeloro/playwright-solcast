@@ -1,2 +1,2 @@
 # playwright-solcast
-Testing Solcast site with Playwright
+E2E test suite for the Sauce Demo web application using Playwright.
