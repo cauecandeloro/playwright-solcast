@@ -1,2 +1,2 @@
 # playwright-solcast
-E2E test suite for Solcast web site using Playwright.
+E2E test suite for Solcast website using Playwright
