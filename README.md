@@ -25,17 +25,17 @@ Solcast is a Brazilian technology company specializing in BIaaS (Business Intell
 
 ## Project Structure
 
-playwright-solcast/
-├── tests/
-│   ├── navigation.spec.ts
-│   ├── homepage.spec.ts
-│   ├── contact.spec.ts
-│   └── responsive.spec.ts
-├── .github/
-│   └── workflows/
-│       └── playwright.yml
-├── playwright.config.ts
-└── package.json
+    playwright-solcast/
+    ├── tests/
+    │   ├── navigation.spec.ts
+    │   ├── homepage.spec.ts
+    │   ├── contact.spec.ts
+    │   └── responsive.spec.ts
+    ├── .github/
+    │   └── workflows/
+    │       └── playwright.yml
+    ├── playwright.config.ts
+    └── package.json
 
 ## How to Run Locally
 
